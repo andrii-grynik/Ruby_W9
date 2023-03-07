@@ -1,4 +1,4 @@
-# Small math games to practice fundamentals for Ruby OOP 
+# Small math game to practice fundamentals for Ruby OOP 
 
 ## Description
 2 players will answer simple math addition questions turn by turn. questions are generated randomly. after each answer system will let you know if answer is wrong or right. Each player starts with 3 lives which will be deducted one by one when the answer is wrong. Game will stop when one of the players is out of lives and it will announce the winner.
